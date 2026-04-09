@@ -1,4 +1,4 @@
-# 🌱 AI Crop Health Prediction System (Crop Phenotyping)
+#  AI Crop Health Prediction System (Crop Phenotyping)
 
 ## 📌 Overview
 
@@ -10,19 +10,17 @@ parameters and disease-related insights.
 The goal is to bridge **agriculture and technology** by enabling
 data-driven crop monitoring and future AI-based predictions.
 
-------------------------------------------------------------------------
 
-## 🚀 Features
+## Features
 
--   🌿 Crop growth monitoring
--   🦠 Disease-related information pages
--   📊 Structured UI for agricultural data
--   🔮 Planned ML-based prediction system
--   📁 User input and data handling interface
+-    Crop growth monitoring
+-    Disease-related information pages
+-    Structured UI for agricultural data
+-    Planned ML-based prediction system
+-    User input and data handling interface
 
-------------------------------------------------------------------------
 
-## 🧠 Machine Learning Aspect
+##  Machine Learning Aspect
 
 -   Explored crop-related datasets
 -   Applied basic ML concepts for pattern understanding
@@ -31,7 +29,6 @@ data-driven crop monitoring and future AI-based predictions.
     -   growth analysis
     -   intelligent recommendations
 
-------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +36,6 @@ data-driven crop monitoring and future AI-based predictions.
 -   Machine Learning: Python (concepts & training)\
 -   Future Scope: AI-based image and data analysis
 
-------------------------------------------------------------------------
 
 ## 📂 Project Structure
 
@@ -51,24 +47,21 @@ data-driven crop monitoring and future AI-based predictions.
 -   `css/` -- Styling\
 -   `js/` -- Scripts
 
-------------------------------------------------------------------------
 
-## 🔮 Future Improvements
+##  Future Improvements
 
--   🌟 AI-based disease detection (image input)
--   📈 Real-time crop health prediction
--   📊 Dashboard with analytics
--   🤖 Integration with ML models for automation
+-    AI-based disease detection (image input)
+-    Real-time crop health prediction
+-    Dashboard with analytics
+-    Integration with ML models for automation
 
-------------------------------------------------------------------------
 
-## 💡 Key Learning
+## Key Learning
 
 -   Understanding of real-world agricultural problems\
 -   Applying ML concepts to domain-specific problems\
 -   Building a structured web interface for system interaction
 
-------------------------------------------------------------------------
 
 
 This project demonstrates the integration of **technology and
